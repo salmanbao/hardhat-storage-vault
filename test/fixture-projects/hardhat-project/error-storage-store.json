@@ -1,0 +1,10 @@
+{
+  "contracts/Example.sol:Example": {
+    "owner": "0",
+    "foo": "1"
+  },
+  "contracts/ExampleTwo.sol:Example": {
+    "foo": "0",
+    "slot1": "1"
+  }
+}

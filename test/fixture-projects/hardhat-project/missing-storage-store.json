@@ -1,0 +1,11 @@
+{
+  "contracts/Example.sol:Example": {
+    "veryImportantState": "5",
+    "foo": "0",
+    "owner": "1"
+  },
+  "contracts/ExampleTwo.sol:Example": {
+    "foo": "0",
+    "slot1": "1"
+  }
+}
